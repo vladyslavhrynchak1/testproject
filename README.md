@@ -1,1 +1,4 @@
 # testproject
+
+init
+enit 
